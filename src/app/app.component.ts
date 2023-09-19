@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Entregable-Uno';
+  title = 'Componentes+FernandezJavier';
 }

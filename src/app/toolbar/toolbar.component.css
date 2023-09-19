@@ -1,0 +1,16 @@
+.sidebar {
+    grid-area: sidebar;
+    background-color: pink;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar-content {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+ul {
+    list-style-type: decimal-leading-zero;
+}

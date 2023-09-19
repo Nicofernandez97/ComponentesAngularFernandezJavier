@@ -1,0 +1,12 @@
+.student {
+    display: flex;
+    grid-area: students;
+    background-color: white;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+}
